@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pance_website/static/css/main.120d113e.chunk.css",
-    "main.js": "/pance_website/static/js/main.4957c69e.chunk.js",
-    "main.js.map": "/pance_website/static/js/main.4957c69e.chunk.js.map",
+    "main.js": "/pance_website/static/js/main.7ee8faca.chunk.js",
+    "main.js.map": "/pance_website/static/js/main.7ee8faca.chunk.js.map",
     "runtime-main.js": "/pance_website/static/js/runtime-main.72d3230d.js",
     "runtime-main.js.map": "/pance_website/static/js/runtime-main.72d3230d.js.map",
     "static/js/2.6b685287.chunk.js": "/pance_website/static/js/2.6b685287.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.72d3230d.js",
     "static/js/2.6b685287.chunk.js",
     "static/css/main.120d113e.chunk.css",
-    "static/js/main.4957c69e.chunk.js"
+    "static/js/main.7ee8faca.chunk.js"
   ]
 }
