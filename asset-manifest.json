@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pance_website/static/css/main.120d113e.chunk.css",
+    "main.js": "/pance_website/static/js/main.4957c69e.chunk.js",
+    "main.js.map": "/pance_website/static/js/main.4957c69e.chunk.js.map",
+    "runtime-main.js": "/pance_website/static/js/runtime-main.72d3230d.js",
+    "runtime-main.js.map": "/pance_website/static/js/runtime-main.72d3230d.js.map",
+    "static/js/2.6b685287.chunk.js": "/pance_website/static/js/2.6b685287.chunk.js",
+    "static/js/2.6b685287.chunk.js.map": "/pance_website/static/js/2.6b685287.chunk.js.map",
+    "static/js/3.49d15167.chunk.js": "/pance_website/static/js/3.49d15167.chunk.js",
+    "static/js/3.49d15167.chunk.js.map": "/pance_website/static/js/3.49d15167.chunk.js.map",
+    "index.html": "/pance_website/index.html",
+    "static/css/main.120d113e.chunk.css.map": "/pance_website/static/css/main.120d113e.chunk.css.map",
+    "static/js/2.6b685287.chunk.js.LICENSE.txt": "/pance_website/static/js/2.6b685287.chunk.js.LICENSE.txt",
+    "static/media/agency.min.css": "/pance_website/static/media/map-image.3cd6dd98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72d3230d.js",
+    "static/js/2.6b685287.chunk.js",
+    "static/css/main.120d113e.chunk.css",
+    "static/js/main.4957c69e.chunk.js"
+  ]
+}
